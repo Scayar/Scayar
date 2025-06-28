@@ -1,169 +1,161 @@
-<!-- Holographic 3D Header -->
+<!-- Futuristic 3D Header with Hologram Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=SCAYAR&desc=DIGITAL%20ARCHITECT&animation=twinkling&fontSize=90&fontAlignY=35&descAlignY=55&fontColor=00fff2&strokeWidth=3&stroke=0AEFF0"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=0AEFF0&center=true&vCenter=true&repeat=false&width=600&height=100&lines=S+C+A+Y+A+R" alt="Typing SVG" /></a>
+</div>
 
-  <!-- Holographic Status Display -->
-  ```diff
-  @@  SYSTEM STATUS: OPERATIONAL  @@
-  + Last Login: Scayar
-  + Timestamp: 2025-06-28 23:18:48 UTC
-  + Location: Quantum Network
-  ```
+<!-- 3D System Monitor -->
+<div align="center">
+  
+```ocaml
+╔══════════════════ SYSTEM INITIALIZATION ══════════════════╗
+║                                                          ║
+║  QUANTUM CORE   : Online                                 ║
+║  USER          : Scayar                                 ║
+║  TIMESTAMP     : 2025-06-28 23:21:13 UTC                ║
+║  STATUS        : Fully Operational                       ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-  <!-- 3D Holographic Card -->
+</div>
+
+<!-- 3D Holographic Display -->
+<div align="center">
   <table>
     <tr>
       <td>
-        <div align="center">
-          <img width="450" src="https://media1.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif"/>
-        </div>
+        <img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
       </td>
       <td>
-        <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=2800&pause=2000&color=0AEFF0&center=true&vCenter=true&width=500&lines=Quantum+Developer;System+Architect;Creative+Engineer;Digital+Artist" alt="Typing SVG" />
+        <div align="left">
+          <h3>⚡ QUANTUM METRICS</h3>
+          <ul>
+            <li>🌐 <b>Core Focus:</b> Digital Architecture</li>
+            <li>🔮 <b>Expertise:</b> System Engineering</li>
+            <li>🎯 <b>Mission:</b> Breaking Boundaries</li>
+            <li>🚀 <b>Status:</b> Exploring Digital Frontiers</li>
+          </ul>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Holographic Metrics Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25px" height="25px">
-  SYSTEM ANALYTICS
-</h2>
-
-<!-- 3D Statistics Cards -->
+<!-- 3D Neural Network Stats -->
 <div align="center">
-  <a href="https://github.com/Scayar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scayar&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=0AEFF0&text_color=0AEFF0&icon_color=0AEFF0&ring_color=0AEFF0"/>
-  </a>
-  <a href="https://github.com/Scayar">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=scayar&theme=transparent&hide_border=true&stroke=0AEFF0&ring=0AEFF0&fire=0AEFF0&currStreakNum=0AEFF0&sideNums=0AEFF0&currStreakLabel=0AEFF0&background=00000000"/>
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=scayar&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=0AEFF0&text_color=0AEFF0&icon_color=0AEFF0&ring_color=0AEFF0" width="400px" height="200px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=scayar&theme=transparent&hide_border=true&stroke=0AEFF0&ring=0AEFF0&fire=0AEFF0&currStreakNum=0AEFF0&currStreakLabel=0AEFF0&background=00000000" width="400px" height="200px"/>
+  </p>
 </div>
 
-<!-- Neural Network Activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=scayar&custom_title=Neural%20Network%20Activity&bg_color=transparent&color=0AEFF0&line=0AEFF0&point=00FFF2&area=true&hide_border=true" width="100%">
+<!-- 3D Connection Grid -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scayar&bg_color=transparent&color=0AEFF0&line=0AEFF0&point=00FFF2&area=true&hide_border=true" width="100%">
+</div>
 
-<!-- 3D Connection Portals -->
+<!-- Holographic Portal Links -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25px" height="25px">
-  CONNECTION PORTALS
+  <img src="https://media0.giphy.com/media/cNoIVzXbgpzh5GHEnum/giphy.gif" width="30"> QUANTUM PORTALS
 </h2>
 
 <div align="center">
-  <a href="https://scayar.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-TERMINAL-000?style=for-the-badge&logo=terminal&logoColor=0AEFF0&labelColor=000000"/>
-  </a>
-  <a href="mailto:Scayar.exe@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-SECURE_MAIL-000?style=for-the-badge&logo=mail&logoColor=0AEFF0&labelColor=000000"/>
-  </a>
-  <a href="https://t.me/im_scayar">
-    <img src="https://custom-icon-badges.demolab.com/badge/-TELEGRAM-000?style=for-the-badge&logo=telegram&logoColor=0AEFF0&labelColor=000000"/>
-  </a>
-  <a href="https://buymeacoffee.com/scayar">
-    <img src="https://custom-icon-badges.demolab.com/badge/-SUPPORT-000?style=for-the-badge&logo=coffee&logoColor=0AEFF0&labelColor=000000"/>
-  </a>
+  
+  [![Website](https://img.shields.io/badge/TERMINAL-scayar.com-0AEFF0?style=for-the-badge&logo=web&logoColor=0AEFF0&labelColor=000000)](https://scayar.com)
+  [![Email](https://img.shields.io/badge/NEXUS-scayar.exe@gmail.com-0AEFF0?style=for-the-badge&logo=gmail&logoColor=0AEFF0&labelColor=000000)](mailto:Scayar.exe@gmail.com)
+  [![Telegram](https://img.shields.io/badge/COMM_LINK-@im_scayar-0AEFF0?style=for-the-badge&logo=telegram&logoColor=0AEFF0&labelColor=000000)](https://t.me/im_scayar)
+  [![Support](https://img.shields.io/badge/SUPPORT_LINK-Buy_Coffee-0AEFF0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0AEFF0&labelColor=000000)](https://buymeacoffee.com/scayar)
+
 </div>
 
-<!-- Holographic Tech Stack -->
+<!-- 3D Tech Matrix -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px" height="25px">
-  QUANTUM ARSENAL
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> QUANTUM ARSENAL
 </h2>
 
-<!-- 3D Tech Grid -->
-<div align="center" style="background: linear-gradient(to bottom, #000000, #001a1a);">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,docker,aws,git,vscode&perline=5&theme=dark"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,mongodb,linux,vim&perline=5&theme=dark"/>
 </div>
 
-<!-- 3D Project Showcase -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px" height="25px">
-  ACTIVE PROTOCOLS
-</h2>
-
+<!-- 3D System Core -->
 ```typescript
-interface QuantumProtocol {
-  name: string;
-  status: "active" | "standby";
-  securityLevel: number;
+// Core System Architecture
+class QuantumCore {
+    private static instance: QuantumCore;
+    private constructor() {
+        this.initializeQuantumSystems();
+    }
+
+    public static getInstance(): QuantumCore {
+        return QuantumCore.instance || (QuantumCore.instance = new QuantumCore());
+    }
+
+    private systems = {
+        mainframe: "ONLINE",
+        quantumProcessor: "ACTIVE",
+        neuralNetwork: "LEARNING",
+        securityProtocols: "ENGAGED"
+    };
+
+    private initializeQuantumSystems(): void {
+        console.log("Quantum Systems Online...");
+        this.engageSecurityProtocols();
+    }
+
+    private engageSecurityProtocols(): void {
+        // Security protocols initialized
+        // Quantum encryption engaged
+        // Neural firewall active
+    }
 }
 
-class QuantumArchitect {
-  private static instance: QuantumArchitect;
-  public readonly protocols: QuantumProtocol[] = [
-    {
-      name: "Quantum Development",
-      status: "active",
-      securityLevel: 9
-    },
-    {
-      name: "Neural Network Training",
-      status: "active",
-      securityLevel: 8
-    },
-    {
-      name: "System Architecture",
-      status: "active",
-      securityLevel: 10
-    }
-  ];
-
-  private constructor() {
-    console.log("Initializing Quantum Protocols...");
-  }
-
-  public static getInstance(): QuantumArchitect {
-    if (!QuantumArchitect.instance) {
-      QuantumArchitect.instance = new QuantumArchitect();
-    }
-    return QuantumArchitect.instance;
-  }
-}
-
-// System Initialization
-const architect = QuantumArchitect.getInstance();
+// Initialize Quantum Core
+QuantumCore.getInstance();
 ```
 
-<!-- 3D Achievements Grid -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25px" height="25px">
-  QUANTUM ACHIEVEMENTS
-</h2>
-
-<div align="center" style="margin: 20px 0">
-  <img src="https://github-profile-trophy.vercel.app/?username=scayar&theme=onestar&no-frame=true&no-bg=true&column=7&title_color=0AEFF0"/>
+<!-- 3D Achievement Grid -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=scayar&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7"/>
 </div>
 
-<!-- Holographic Profile Views -->
+<!-- Real-time Metrics -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=scayar&label=NEURAL+CONNECTIONS&style=for-the-badge&color=0AEFF0"/>
+  <img src="https://komarev.com/ghpvc/?username=scayar&label=QUANTUM+CONNECTIONS&style=for-the-badge&color=0AEFF0"/>
 </div>
 
 <!-- 3D Footer -->
-<img src="https://capsule-render.vercel.app/api?type=shark&height=150&section=footer&text=QUANTUM%20SIGNATURE&animation=twinkling&fontSize=40&fontColor=0AEFF0&color=gradient&customColorList=12,14,16,18,20"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=150&section=footer&text=QUANTUM+SIGNATURE+VERIFIED&fontSize=30&animation=twinkling&fontColor=0AEFF0&color=gradient&customColorList=12,14,16,18,20"/>
+</div>
 
-<!-- Hidden 3D Effects -->
+<!-- Custom 3D Effects -->
 <style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
+@keyframes quantum-float {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  25% { transform: translateY(-10px) rotate(1deg); }
+  75% { transform: translateY(10px) rotate(-1deg); }
 }
 
-.float {
-  animation: float 6s ease-in-out infinite;
+@keyframes quantum-glow {
+  0%, 100% { filter: drop-shadow(0 0 10px #0AEFF0); }
+  50% { filter: drop-shadow(0 0 25px #0AEFF0); }
 }
 
-@keyframes glow {
-  0% { filter: drop-shadow(0 0 5px #0AEFF0); }
-  50% { filter: drop-shadow(0 0 20px #0AEFF0); }
-  100% { filter: drop-shadow(0 0 5px #0AEFF0); }
+.quantum-effect {
+  animation: quantum-float 6s ease-in-out infinite, quantum-glow 3s ease-in-out infinite;
 }
 
-.glow {
-  animation: glow 3s ease-in-out infinite;
+.quantum-card {
+  backdrop-filter: blur(10px);
+  background: rgba(0, 0, 0, 0.7);
+  border: 1px solid rgba(10, 239, 240, 0.2);
+  border-radius: 15px;
+  transition: all 0.3s ease;
+}
+
+.quantum-card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(10, 239, 240, 0.8);
+  box-shadow: 0 0 20px rgba(10, 239, 240, 0.3);
 }
 </style>
