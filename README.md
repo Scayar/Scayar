@@ -11,7 +11,7 @@
 ║                                                          ║
 ║  QUANTUM CORE   : Online                                 ║
 ║  USER          : Scayar                                 ║
-║  TIMESTAMP     : 2025-06-28 23:21:13 UTC                ║
+║  TIMESTAMP     : 2025-06-28 23:23:54 UTC                ║
 ║  STATUS        : Fully Operational                       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
@@ -78,40 +78,81 @@
 </div>
 
 <!-- 3D System Core -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  QUANTUM CORE ARCHITECTURE
+</h2>
+
+<div align="center">
+
 ```typescript
-// Core System Architecture
+//====================================//
+//      QUANTUM CORE v2.5.0           //
+//      STATUS: OPERATIONAL           //
+//      TIME: 2025-06-28 23:23:54    //
+//      USER: SCAYAR                  //
+//====================================//
+
 class QuantumCore {
     private static instance: QuantumCore;
+    
+    // Core System Components
+    private readonly systemMatrix = {
+        █████████: "INITIALIZED",
+        mainframe: "ONLINE",
+        quantum_engine: "ACTIVE",
+        neural_network: "LEARNING",
+        security_protocols: "ENGAGED"
+    };
+
+    // Secure Constructor
     private constructor() {
         this.initializeQuantumSystems();
     }
 
+    // Singleton Pattern
     public static getInstance(): QuantumCore {
-        return QuantumCore.instance || (QuantumCore.instance = new QuantumCore());
+        if (!QuantumCore.instance) {
+            console.log("⚡ Initializing Quantum Core...");
+            QuantumCore.instance = new QuantumCore();
+        }
+        return QuantumCore.instance;
     }
 
-    private systems = {
-        mainframe: "ONLINE",
-        quantumProcessor: "ACTIVE",
-        neuralNetwork: "LEARNING",
-        securityProtocols: "ENGAGED"
-    };
-
+    // System Initialization
     private initializeQuantumSystems(): void {
-        console.log("Quantum Systems Online...");
+        this.displayBootSequence();
         this.engageSecurityProtocols();
     }
 
+    // Boot Sequence
+    private displayBootSequence(): void {
+        console.log(`
+        ╔════════════════════════╗
+        ║  QUANTUM CORE ONLINE   ║
+        ║  USER: SCAYAR         ║
+        ║  ACCESS: GRANTED      ║
+        ╚════════════════════════╝
+        `);
+    }
+
+    // Security Protocols
     private engageSecurityProtocols(): void {
-        // Security protocols initialized
-        // Quantum encryption engaged
-        // Neural firewall active
+        // 🔒 Security protocols initialized
+        // 🔐 Quantum encryption engaged
+        // 🛡️ Neural firewall active
+        // 🌐 Network shields up
     }
 }
 
-// Initialize Quantum Core
-QuantumCore.getInstance();
+//===============================//
+//    SYSTEM INITIALIZATION     //
+//===============================//
+const core = QuantumCore.getInstance();
+console.log("QUANTUM CORE >> READY");
 ```
+
+</div>
 
 <!-- 3D Achievement Grid -->
 <div align="center">
